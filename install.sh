@@ -35,4 +35,4 @@ if [ ! -d "wordlists" ]; then
     wget https://gist.githubusercontent.com/jhaddix/86a06c5dc309d08580a018c66354a056/raw/96f4e51d96b2203f19f6381c8c545b278eaa0837/all.txt -O wordlists/dns_wordlist.txt
 fi
 
-echo -e "\033[1;32m[+] Installation complete! Run ./ReconHound.sh\033[0m"
+echo -e "\033[1;32m[+] Installation complete! Run ./ReconHound.v1.0.0\033[0m"
