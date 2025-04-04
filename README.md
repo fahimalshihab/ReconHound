@@ -130,6 +130,7 @@ To view your report:
    Then visit http://localhost:8000/report.html
 3. PDF version available: scoperecon-manager.thefork.com-20250405_001420/report.pdf
 ```
+![image](https://github.com/user-attachments/assets/f8d49061-51a1-41a1-a3ac-6eed74c4ddfb)
 
 ### 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
