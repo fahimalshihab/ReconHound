@@ -49,9 +49,9 @@ Automated reconnaissance tool for bug bounty hunters and penetration testers wit
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/ReconHound.git
+git clone https://github.com/fahimalshihab/ReconHound.git
 cd ReconHound
-chmod +x install.sh ReconHound.sh
+chmod +x install.sh 
 ./install.sh  # Installs all dependencies
 ```
 
