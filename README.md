@@ -2,6 +2,7 @@
 
 ![Banner](assets/banner.png) *(Optional: Add a cool ASCII art banner)*
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Automated reconnaissance tool for bug bounty hunters with:
 - Scope-aware subdomain discovery
 - Live URL validation
